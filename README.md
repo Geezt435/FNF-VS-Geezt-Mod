@@ -1,3 +1,7 @@
+# VS Geezter (Geezt) Mod
+
+Hi, Geezt Jeez here, I used Lime and the Project Source Code from FNF to make the Mod, as for now this is the progress by far, it will keep continued when I wanted to, see ya later
+
 # Friday Night Funkin
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
